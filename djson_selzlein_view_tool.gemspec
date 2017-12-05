@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Djeison Selzlein"]
   spec.email         = ["djeison.selzlein@gmail.com"]
 
-  spec.summary       = %q{Common methods for applications I write}
+  spec.summary       = %q{Util methods for applications I write}
   spec.description   = %q{Generates HTML for applications}
   spec.homepage      = "https://github.com/selzlein/djson_selzlein_view_tool"
   spec.license       = "MIT"
