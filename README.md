@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DjsonSelzleinViewTool::Renderer.copyright 'Djeison Selzlein', 'All rights reserved'
+```
 
 ## Development
 
